@@ -1,0 +1,66 @@
+ Volume in drive C is TI80138000D
+ Volume Serial Number is 4E4B-4D2C
+
+ Directory of C:\Users\david\Downloads\playcard\playing-cards-assets-master\png
+
+2018-04-06  08:31 PM    <DIR>          .
+2018-04-06  08:31 PM    <DIR>          ..
+2018-04-06  08:25 PM            13,052 10_of_clubs.png
+2018-04-06  08:25 PM            15,733 10_of_diamonds.png
+2018-04-06  08:25 PM            15,768 10_of_hearts.png
+2018-04-06  08:25 PM            11,988 10_of_spades.png
+2018-04-06  08:25 PM             4,920 2_of_clubs.png
+2018-04-06  08:25 PM             5,994 2_of_diamonds.png
+2018-04-06  08:25 PM             6,066 2_of_hearts.png
+2018-04-06  08:25 PM             4,549 2_of_spades.png
+2018-04-06  08:25 PM             6,201 3_of_clubs.png
+2018-04-06  08:25 PM             7,685 3_of_diamonds.png
+2018-04-06  08:25 PM             7,683 3_of_hearts.png
+2018-04-06  08:25 PM             5,739 3_of_spades.png
+2018-04-06  08:25 PM             6,623 4_of_clubs.png
+2018-04-06  08:25 PM             8,009 4_of_diamonds.png
+2018-04-06  08:25 PM             7,998 4_of_hearts.png
+2018-04-06  08:25 PM             6,053 4_of_spades.png
+2018-04-06  08:25 PM             8,028 5_of_clubs.png
+2018-04-06  08:25 PM             9,906 5_of_diamonds.png
+2018-04-06  08:25 PM             9,823 5_of_hearts.png
+2018-04-06  08:25 PM             7,412 5_of_spades.png
+2018-04-06  08:25 PM             9,144 6_of_clubs.png
+2018-04-06  08:25 PM            11,199 6_of_diamonds.png
+2018-04-06  08:25 PM            11,220 6_of_hearts.png
+2018-04-06  08:25 PM             8,456 6_of_spades.png
+2018-04-06  08:25 PM             9,495 7_of_clubs.png
+2018-04-06  08:25 PM            11,447 7_of_diamonds.png
+2018-04-06  08:25 PM            11,507 7_of_hearts.png
+2018-04-06  08:25 PM             8,728 7_of_spades.png
+2018-04-06  08:25 PM            11,026 8_of_clubs.png
+2018-04-06  08:25 PM            13,385 8_of_diamonds.png
+2018-04-06  08:25 PM            13,721 8_of_hearts.png
+2018-04-06  08:25 PM            10,094 8_of_spades.png
+2018-04-06  08:25 PM            11,922 9_of_clubs.png
+2018-04-06  08:25 PM            14,631 9_of_diamonds.png
+2018-04-06  08:25 PM            14,610 9_of_hearts.png
+2018-04-06  08:25 PM            10,931 9_of_spades.png
+2018-04-06  08:25 PM            15,809 ace_of_clubs.png
+2018-04-06  08:25 PM            12,290 ace_of_diamonds.png
+2018-04-06  08:25 PM            15,446 ace_of_hearts.png
+2018-04-06  08:25 PM            14,351 ace_of_spades.png
+2018-04-06  08:25 PM             6,165 back.png
+2018-04-06  08:25 PM            17,515 back@2x.png
+2018-04-06  08:25 PM            10,411 black_joker.png
+2018-04-06  08:25 PM            76,397 jack_of_clubs.png
+2018-04-06  08:25 PM            81,022 jack_of_diamonds.png
+2018-04-06  08:25 PM            83,311 jack_of_hearts.png
+2018-04-06  08:25 PM            80,001 jack_of_spades.png
+2018-04-06  08:25 PM            82,935 king_of_clubs.png
+2018-04-06  08:25 PM            87,014 king_of_diamonds.png
+2018-04-06  08:25 PM            90,389 king_of_hearts.png
+2018-04-06  08:25 PM            74,531 king_of_spades.png
+2018-04-06  08:31 PM                 0 new.txt
+2018-04-06  08:25 PM            86,868 queen_of_clubs.png
+2018-04-06  08:25 PM            72,371 queen_of_diamonds.png
+2018-04-06  08:25 PM            82,286 queen_of_hearts.png
+2018-04-06  08:25 PM            73,766 queen_of_spades.png
+2018-04-06  08:25 PM            12,401 red_joker.png
+              57 File(s)      1,426,025 bytes
+               2 Dir(s)  386,913,533,952 bytes free
