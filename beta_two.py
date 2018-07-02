@@ -46,13 +46,20 @@ def stay():
     show = Button(Main_win,image = photo)
     show.image = photo
     show.grid(row=1,column=house_col)
-    count=count+1
+   
     house_col = house_col + 1
     house_score = (house_score + int(card_values[count]))
     house.set(str(house_score))
     count = count + 1
     print (house_score)
+ 
+ 
+def win_chek():
+     
+     pass
     
+    
+ 
 
 # main tkinter frame
 root = Tk()
@@ -95,10 +102,10 @@ show.grid(row=1,column=1)
 # also need betting for game 
 
 # my buttons and labels
-HitButt=Button(Main_win, text="Hit", command=hit).grid(column=0, row=3)
-Stand=Button(Main_win, text="Stay", command=stay).grid(column=1, row=3)
-QuitBut=Button(Main_win, text="Quit", command=root.destroy).grid(column=2, row=3)
-Label(Main_win,text="No Class 21" , font=32).grid(row=4,column=2)
+HitButt=Button(Main_win, text="Hit", command=hit).grid(column=0, row=4)
+Stand=Button(Main_win, text="Stay", command=stay).grid(column=1, row=4)
+QuitBut=Button(Main_win, text="Quit", command=root.destroy).grid(column=2, row=4)
+Label(Main_win,text="No Class 21" , font=32).grid(row=3,column=1)
 
 Label(Main_win,text="Player:" , font=32).grid(row=5,column=0)
 Label(Main_win,textvariable=score, font=32).grid(row=5,column=1)
